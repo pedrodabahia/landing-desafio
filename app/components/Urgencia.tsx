@@ -66,7 +66,7 @@ export function UrgenciaSection() {
             
             <div className="mt-6 text-center">
               <button className="w-full bg-[#5C7048] hover:bg-[#4A5D3F] text-white px-8 py-5 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl hover:shadow-[#5C7048]/50 uppercase tracking-wide">
-                <Link className="inline-flex items-center gap-3" href={"https://wa.me/5573999916255?text=Ol%C3%A1%21%20Vi%20o%20desafio%20e%20me%20interessei.%20Gostaria%20de%20saber%20mais%20detalhes%2C%20por%20favor"}>
+                <Link className="inline-flex items-center gap-3" href={"https://wa.me/5573998307281?text=Ol%C3%A1%21%20Vi%20o%20desafio%20e%20me%20interessei.%20Gostaria%20de%20saber%20mais%20detalhes%2C%20por%20favor"}>
                   Garantir minha vaga agora
                 </Link>
               </button>

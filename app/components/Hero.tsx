@@ -49,7 +49,7 @@ export function HeroSection() {
 
           {/* CTA Button */}
           <button className="group bg-[#5C7048] hover:bg-[#4A5D3F] text-white px-8 py-5 rounded-lg transition-all duration-300 flex items-center gap-3 shadow-lg hover:shadow-xl hover:shadow-[#5C7048]/50">
-            <Link className="inline-flex items-center gap-3" href={"https://wa.me/5573999916255?text=Ol%C3%A1%21%20Vi%20o%20desafio%20e%20me%20interessei.%20Gostaria%20de%20saber%20mais%20detalhes%2C%20por%20favor"}>
+            <Link className="inline-flex items-center gap-3" href={"https://wa.me/5573998307281?text=Ol%C3%A1%21%20Vi%20o%20desafio%20e%20me%20interessei.%20Gostaria%20de%20saber%20mais%20detalhes%2C%20por%20favor"}>
               <span className="uppercase tracking-wide">Quero participar do desafio</span>
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Link>

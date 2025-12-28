@@ -37,7 +37,7 @@ export function CtaSection() {
 
             {/* CTA Button */}
             <button className="group bg-[#5C7048] hover:bg-[#4A5D3F] text-white px-10 py-6 rounded-xl transition-all duration-300 inline-flex items-center gap-3 shadow-2xl hover:shadow-[#5C7048]/50 hover:scale-105">
-              <Link className="inline-flex items-center gap-3" href={"https://wa.me/5573999916255?text=Ol%C3%A1%21%20Vi%20o%20desafio%20e%20me%20interessei.%20Gostaria%20de%20saber%20mais%20detalhes%2C%20por%20favor"}>
+              <Link className="inline-flex items-center gap-3" href={"https://wa.me/5573998307281?text=Ol%C3%A1%21%20Vi%20o%20desafio%20e%20me%20interessei.%20Gostaria%20de%20saber%20mais%20detalhes%2C%20por%20favor"}>
                 <span className="uppercase tracking-wide text-lg">Aceitar o Desafio Karkará</span>
                 <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
               </Link>
