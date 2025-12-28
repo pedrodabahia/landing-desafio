@@ -15,6 +15,22 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Desafio Karkará - 30 Dias",
   description: "Desafio Karkará 30 Dias é um programa de emagrecimento e fortalecimento físico para homens. Treinos focados, disciplina e resultados reais em apenas 30 dias",
+  openGraph: {
+    title: 'Desafio 30 Dias – Transforme seu corpo',
+    description: 'Vagas limitadas para o desafio de 30 dias que vai transformar seu corpo e sua disciplina.',
+    url: 'https://desafiokarkara.vercel.app',
+    siteName: 'Desafio 30 Dias',
+    images: [
+      {
+        url: 'https://desafiokarkara.vercel.app/Images/banner.png',
+        width: 1200,
+        height: 630,
+        alt: 'Desafio 30 Dias',
+      },
+    ],
+    locale: 'pt_BR',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({
