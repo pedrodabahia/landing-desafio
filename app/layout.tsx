@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Desafio Karkará - 30 Dias",
-  description: "Desafio Karkará 30 Dias é um programa de emagrecimento e fortalecimento físico para homens. Treinos focados, disciplina e resultados reais em apenas 30 dias",
+  description: "Desafio Karkará 30 Dias é um programa de emagrecimento e fortalecimento físico para homens em Posto da Mata - Ba. Treinos focados, disciplina e resultados reais em apenas 30 dias",
   openGraph: {
     title: 'Desafio 30 Dias – Transforme seu corpo',
     description: 'Vagas limitadas para o desafio de 30 dias que vai transformar seu corpo e sua disciplina.',
