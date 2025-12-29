@@ -30,6 +30,10 @@ export const metadata: Metadata = {
     ],
     locale: 'pt_BR',
     type: 'website',
+
+  },
+  icons: {
+    icon: "/favicon.ico"
   },
 };
 
